@@ -1,0 +1,135 @@
+[
+    {
+        "name" : "HP Pavilion 15",
+        "brand" : "HP",
+        "price" : "27900",
+        "display" : "15.6",
+        "weight" : "2.02"
+    },
+    {
+        "name" : "HP 15",
+        "brand" : "HP",
+        "price" : "18860",
+        "display" : "15.6",
+        "weight" : "1.77"
+    },
+    {
+        "name" : "Acer Nitro 5 AN515-52",
+        "brand" : "Acer",
+        "price" : "34590",
+        "display" : "15.6",
+        "weight" : "2.70"
+    },
+    {
+        "name" : "Asus ROG Strix GL704GV",
+        "brand" : "Asus",
+        "price" : "56900",
+        "display" : "17.3",
+        "weight" : "2.95"
+    },
+    {
+        "name" : "Asus ROG G703GX",
+        "brand" : "Asus",
+        "price" : "169900",
+        "display" : "17.3",
+        "weight" : "4.70"
+    },
+    {
+        "name" : "MSI GS75 Stealth 8SF",
+        "brand" : "MSI",
+        "price" : "99900",
+        "display" : "17.3",
+        "weight" : "2.25"
+    },
+    {
+        "name" : "MSI GT83 8RG",
+        "brand" : "MSI",
+        "price" : "195900",
+        "display" : "18.4",
+        "weight" : "5.50"
+    },
+    {
+        "name" : "Asus Transformer Book T101HA",
+        "brand" : "Asus",
+        "price" : "9990",
+        "display" : "10.1",
+        "weight" : "1.08"
+    },
+    {
+        "name" : "Acer Switch 3 SW312-31",
+        "brand" : "Acer",
+        "price" : "15990",
+        "display" : "12.2",
+        "weight" : "1.25"
+    },
+    {
+        "name" : "Asus VivoBook E12 E203NAH",
+        "brand" : "Asus",
+        "price" : "7350",
+        "display" : "11.6",
+        "weight" : "1.00"
+    },
+    {
+        "name" : "Lenovo YOGA 530",
+        "brand" : "Lenovo",
+        "price" : "31990",
+        "display" : "14.0",
+        "weight" : "1.60"
+    },
+    {
+        "name" : "HP ENVY 13",
+        "brand" : "HP",
+        "price" : "45900",
+        "display" : "13.3",
+        "weight" : "1.21"
+    },
+    {
+        "name" : "HP Pavilion 14",
+        "brand" : "HP",
+        "price" : "24900",
+        "display" : "14.0",
+        "weight" : "1.6"
+    },
+    {
+        "name" : "Lenovo V330 15",
+        "brand" : "Lenovo",
+        "price" : "15360",
+        "display" : "15.6",
+        "weight" : "2.10"
+    },
+    {
+        "name" : "Asus ZenBook 3 UX390UA",
+        "brand" : "Asus",
+        "price" : "66900",
+        "display" : "12.5",
+        "weight" : "0.91"
+    },
+    {
+        "name" : "Asus ROG GX800VH(KBL)",
+        "brand" : "Asus",
+        "price" : "259900",
+        "display" : "18.4",
+        "weight" : "5.70"
+    },
+    {
+        "name" : "MSI GT75 8SG",
+        "brand" : "MSI",
+        "price" : "179900",
+        "display" : "17.3",
+        "weight" : "4.56"
+    },
+    {
+        "name" : "DELL Inspiron 5370",
+        "brand" : "DELL",
+        "price" : "29900",
+        "display" : "13.3",
+        "weight" : "1.39"
+    },
+    {
+        "name" : "DELL Alienware 17 R5",
+        "brand" : "DELL",
+        "price" : "109900",
+        "display" : "17.3",
+        "weight" : "4.42"
+    }
+]
